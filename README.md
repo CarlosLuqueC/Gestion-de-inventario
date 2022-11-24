@@ -1,4 +1,4 @@
-# Gesti-n-de-inventario
+# Gestión-de-inventario
 Aplicación Java que automatiza los procesos relacionados con el inventario en un comercio.
 
 Se trata de un CRUD (Crear, Leer, Actualizar y Eliminar datos) para la gestión de un comercio, que mejora los procesos y la manipulación
